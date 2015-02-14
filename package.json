@@ -1,0 +1,9 @@
+{
+  "name": "cstormc",
+  "title": "Cryptostorm Checker",
+  "id": "jid1-8UEPQrPnRS29ig",
+  "description": "Shows Cryptostorm Darknet connection status.",
+  "author": "dfkt",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
